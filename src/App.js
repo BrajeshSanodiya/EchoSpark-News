@@ -1,5 +1,4 @@
 import './App.css';
-
 import React, { Component } from 'react'
 import NavBar from './components/NavBar';
 import News from './components/News';
@@ -23,11 +22,7 @@ export default class App extends Component {
       <div>
         <BrowserRouter>
           <NavBar />
-          <LoadingBar
-            height={3}
-            color='#f11946'
-            progress={this.state.progress}
-          />
+          <LoadingBar height={3} color='#f11946' progress={this.state.progress}/>
           <Routes>
             <Route exact path="/" element={<News setProgress={this.setProgress} key="general" apiKey={this.apiKey} pageSize={this.pageSize} country="in" category="Top News" />} />
             <Route exact path="/business" element={<News setProgress={this.setProgress} key="business" apiKey={this.apiKey} pageSize={this.pageSize} country="in" category="Business" />} />
