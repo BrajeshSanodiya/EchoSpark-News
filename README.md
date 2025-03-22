@@ -1,7 +1,7 @@
 
 # Explore the World with EchoSpark News: Your Window to Global Insights
 
-Welcome to EchoSpark News, your digital portal to a world of information, discovery, and engagement. Step into a realm where news transcends mere headlines, where stories come alive with depth and context, and where your curiosity finds its home.
+Welcome to EchoSpark News, your digital portal to a world of information, discovery, and engagement. Step into a realm where news transcends mere headlines, where stories come alive with depth and context, and where your curiosity finds its home. 
 
 ## Sleek Design, Seamless Experience:
 EchoSpark News greets you with a sleek and inviting design that puts the spotlight on content. The website's user-friendly interface ensures that your journey through the news is intuitive and hassle-free. Whether you're on a desktop, tablet, or smartphone, the responsive layout adapts seamlessly to your device, providing an immersive experience that caters to your preferences.
