@@ -3,6 +3,7 @@ import LinesEllipsisLoose from 'react-lines-ellipsis/lib/loose'
 
 const NewsItem = (props) => {
     let { title, description, imageUrl, newsUrl, author, date, source } = props;
+    console.log('title,description,imageUrl,newsUrl,author,date,source')
     return (
       <div className="card">
         <div style={{ display: 'flex', justifyContent: 'flex-end', right: '0', position: 'absolute' }}><span className="badge rounded-pill bg-danger">{source}</span></div>
